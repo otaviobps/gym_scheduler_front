@@ -1,8 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using React
 
-## Available Scripts
-
-In the project directory, you can run:
+To start the project you need the backend running. Then, in the project directory, you can run:
 
 ### `yarn start`
 

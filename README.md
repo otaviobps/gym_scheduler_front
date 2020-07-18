@@ -1,5 +1,7 @@
 This project was created using React
 
+The backend of this project is hosted at: https://github.com/otaviobps/gym_scheduler_back
+
 To start the project you need the backend running. Then, in the project directory, you can run:
 
 ### `yarn start`
